@@ -1,0 +1,2 @@
+rootProject.name='bouncingBall'
+include ':app'
